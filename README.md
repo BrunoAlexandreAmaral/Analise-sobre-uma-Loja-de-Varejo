@@ -1,6 +1,4 @@
 # Analise-sobre-uma-Loja-de-Varejo
-
-# Analise-sobre-uma-Loja-de-Varejo
 O Dataset de varejo que temos em maõs é composto por infomrações de vendas de uma loja virtual,que atua em todo territorio nacional,vendendo produtos diferentes departaemntos.alem disso, a loja atua em diferentes canais de vendas, como marketplace,loja propia, entre outros.
 
 A base de vendas contém informações sobre cada venda realizada pela loja, possivelmente com dados como:
