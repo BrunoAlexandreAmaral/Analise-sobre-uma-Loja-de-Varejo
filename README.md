@@ -1,0 +1,1 @@
+# Analise-sobre-uma-Loja-de-Varejo
